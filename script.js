@@ -1,0 +1,1 @@
+console.log("We have JavaScript files too!")
